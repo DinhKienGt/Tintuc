@@ -1,0 +1,35 @@
+#data-table.tin{
+	border: solid 1px black;
+	padding: 10px;
+}
+
+#header{
+	height: 30%;
+	width: 100%;
+	border: solid 1px black;
+	background-color: #808080;
+}
+
+#center{
+	height: 50%;
+	border: solid 1px black;
+	background-color: #bfff00;
+}
+
+#left{
+	float: left;
+	border: solid 1px black;
+	width: 40%;
+}
+
+#content{
+	float: left;
+	border: solid 1px black;
+}
+
+#footer{
+	clear: left;
+	border: solid 1px black;
+	height: 27%;
+	background-color: #00ffff;
+}
